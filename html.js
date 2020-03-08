@@ -19,5 +19,5 @@ ${list
   .map(([school, player]) => `<li>${link(school)}<br/>${link(player)}</li>`)
   .join('\n')}
 </ul>
-<body>
+</body>
 `)
