@@ -1,0 +1,175 @@
+Acadia University - Brian Heaney
+ Alabama A&M University - Mickell Gladness
+ Alabama-Huntsville - Josh Magette
+ Albertson College of Idaho - Elgin Baylor
+ Alliance College - Don Asmonga
+ American International College - Mario Elie
+ Appalachian State University - Belus Smawley
+ Ashland University - Bill Higgins
+ Assumption College - Jake Jones
+ Augusta State University - Garret Siler
+ Aurora University - Mickey Johnson
+ Averett University - Kennard Winchester
+ Azusa Pacific University - Dennis Van Zant
+ Belmont - Ian Clark
+ Belmont Abbey College - Danny Doyle
+ Beloit College - Johnny Orr
+ Bemidji State University - Arnie Johnson
+ Benedict College - Walter Simon
+ Bethel College - Joe Reaves
+ Blinn College - Chris Andersen
+ Bloomsburg University of Pennsylvania - Joe Colone
+ Brigham Young University Hawaii - Yuta Tabuse
+ Bucknell - Mike Muscala
+ Buffalo - Sam Pellom
+ Cal Poly - David Nwaba
+ Cal State San Bernardino - Ivan Johnson
+ California State University, Bakersfield - Kebu Stewart
+ California State University, Northridge - Paul McCracken
+ California University of Pennslyvania - Del Beshore
+ California Western Uiversity - Dennis Grey
+ Case Western Reserve University - Hank Lefkowitz
+ Catholic University of America - Charley Shipp
+ Central Missouri State University - Don Martin
+ Central State College - Ken Corley
+ Cerritos College - Bill Crow
+ Christopher Newport University - Lamont Strothers
+ City College of San Francisco - Bill Calhoun
+ Clark Atlanta University - Hank DeZonie
+ College of Saint Rose - Garth Joseph
+ College of Wooster - Mel Riebe
+ Colorado-Colorado Springs - Derrick White
+ Culver-Stockton College - Harold Kottman
+ Dakota Wesleyan University - Ralph Siewert
+ Davis & Elkins College - Press Maravich
+ Delaware State University - Emanual Davis
+ DePauw University - Earl Gardner
+ East Central University - Claude Overton
+ Eastern New Mexico University - Greg Hyder
+ Elizabeth City State University - Mike Gale
+ Elon University - Jesse Branson
+ Fayetteville State University - Darrell Armstrong
+ Florida Gulf Coast - Brandon Goodwin
+ Fort Valley State University - Walt Gilmore
+ Franklin College - Dale Hamilton
+ Friendship Junior College - Harthorne Wingo
+ Gannon University - Calvin Graham
+ Hanover College - Stephen Wilson
+ Hardin-Simmons University - Harvey Catchings
+ Hastings College - Bart Kofoed
+ High Point University - Gene Littles
+ Hill College - Jemerrio Jones
+ Hillsdale College - Bud Acton
+ Hiram College - Bill Meyer
+ Hiram Scott College - Richard Moore
+ Houston Baptist University - E.C. Coleman
+ Howard College - Mark Davis
+ Humboldt State University - Darrell Brown
+ Huntington University - Ralph Johnson
+ Illinois Wesleyan University - Jack Sikma
+ IUPUI - George Hill
+ Jacksonville State University - Walker Russell
+ Johnson C. Smith University - Tyrone Britt
+ Kenyon College - Jeff Slade
+ King's College - George Dempsey
+ Lawrence Technological University - Blaine Denning
+ Lebanon Valley College - Andy Panko
+ Lehigh - CJ McCollum
+ LeMoyne College - Don Savage
+ Lincoln Memorial University - Emanuel Terry
+ Lipscomb - Garrison Mathews
+ Longwood University - Jerome Kersey
+ Marist College - Rik Smits
+ Master's College - Mike Penberthy
+ Mercer University - Sam Mitchell
+ Miles College - Thales McReynolds
+ Millersville - Phil Walker
+ Mississippi Valley State University - Alphonso Ford
+ Missouri State - Alize Johnson
+ Molloy - Jaylen Morris
+ Monmouth University - Alex Blackwell
+ Montana State - Jack Gillespie
+ Montana State University, Billings - Roy McPipe
+ Morehouse College - Harold Ellis
+ Morgan State University - Marvin Webster
+ Mount San Antonio College - Lloyd Daniels
+ Mount Union College - Bill Herman
+ New Mexico Highlands University - Bill Dinwiddie
+ New Mexico Tech - Elmore Morgenthaler
+ North Park University - Mike Harper
+ Northwestern Oklahoma State University - Gaylon Nickerson
+ Northwood Institute - Jerry Pettway
+ Ohio Wesleyan University - Barry Clemens
+ Otterbein College - Don Carlos
+ Ouachita Baptist University - Tom Patterson
+ Pfeiffer University - Antonio Harvey
+ Phillips University - John Turner
+ Pikeville College - Donnie Butcher
+ Purdue-Fort Wayne - John Konchar
+ Queens College - Charlie Hoefer
+ Radford - Javonte Green
+ Robert Morris University (IL) - Othyus Jeffers
+ Robert Morris University (PA) - Earl Cureton
+ Rockhurst University - Tom Callahan
+ Saint Augustine's College - Ken Bannister
+ Saint Mary's University of Minnesota - Clint Wager
+ Saint Vincent College - Daniel Santiago
+ Savannah State University - Johnny Mathis
+ Seattle Pacific University - Phil Zevenbergen
+ Shaw - Ronald Murray
+ Siena College - Edwin Ubiles
+ Slippery Rock University of Pennsylvania - Myron Brown
+ Southeastern Illinois College - Donta Smith
+ Southeastern Oklahoma State University - Dennis Rodman
+ Springfield College - Bob Hubbard
+ St. Francis College - Jim Luisi
+ St. Thomas University - Art Collins
+ State University of New York at Potsdam - Derrick Rowland
+ Stony Brook University - Jameel Warney
+ Texas Wesleyan University - Easy Parham
+ Trenton State University - Greg Grant
+ United States Air Force Academy - Matt Mooney
+ United States Military Academy - Mike Silliman
+ University of Arkansas at Pine Bluff - Charles Hentz
+ University of Baltimore - Isaiah Wilson
+ University of Bridgeport - Manute Bol
+ University of California, Riverside - Sam Cash
+ University of Central Arkansas - Scottie Pippen
+ University of Central Oklahoma - Eddie Robinson
+ University of Hartford - Vin Baker
+ University of Indianapolis - Jordan Loyd
+ University of Minnesota Duluth - Jay Guidinger
+ University of Montevallo - Nate Driggers
+ University of Northern Colorado - Mike Higgins
+ University of Puget Sound - Charlie Lowery
+ University of Rochester - Dave Deutsch
+ University of San Diego - Stan Washington
+ University of Scranton - Red Wallace
+ University of South Dakota - Matt Mooney
+ University of Southern Colorado - John Smith
+ University of Tampa - Nate Johnston
+ University of Tennessee at Martin - Lester Hudson
+ University of the District of Columbia - Earl Jones
+ University of West Florida - Moochie Norris
+ University of Wisconsin-Parkside - Abdul Jeelani
+ University of Wisconsin-River Falls - Nate DeLong
+ University of Wisconsin-Stevens Point - Terry Porter
+ Upsala College - Bob McCann
+ UT Arlington - Kevin Hervey
+ Valdosta State University - Pete Smith
+ Vincennes University - Mychal Mulder
+ Voorhees College - Jackie Dinkins
+ Walsh University - Robert Whaley
+ West Georgia - Foots Walker
+ West Virginia Wesleyan College - Jim Brogan
+ Westchester CC - Luis Montero
+ Western Illinois University - Al Miksis
+ Westminster College of Pennsylvania - Fred Paine
+ Westminster College of Utah - Bill Crow
+ Wheaton College - Mel Peterson
+ Wheeling Jesuit - Haywood Highsmith
+ Williams - Duncan Robinson
+ Wingate University - Junior Harrington
+ Wofford College - Jim Neal
+ Yankton College - Chuck Lloyd
+ Youngstown State University - Leo Mogus
