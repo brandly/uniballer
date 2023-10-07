@@ -1,15 +1,22 @@
 const { get } = require('axios')
 const cheerio = require('cheerio')
 
-const baseUrl = 'https://www.basketball-reference.com/'
+const baseUrl = 'https://www.basketball-reference.com'
 
 ;(async () => {
   const res = await get(baseUrl + '/friv/colleges.fcgi')
   const $ = cheerio.load(res.data)
 
-  const schools = $('option')
+  let schools = $('option')
     .toArray()
-    .map(el => ({ name: $(el).text(), url: baseUrl + $(el).attr('value') }))
+    .map((el) => ({
+      name: $(el).text().trim(),
+      url: baseUrl + $(el).attr('value'),
+    }))
+
+  if (schools[0].name === 'Select a College') {
+    schools = schools.slice(1)
+  }
 
   for (let i = 0; i < schools.length; i++) {
     const school = schools[i]
@@ -20,16 +27,12 @@ const baseUrl = 'https://www.basketball-reference.com/'
   }
 })()
 
-const getPlayers = async url => {
+const getPlayers = async (url) => {
   const res = await get(url)
   const $ = cheerio.load(res.data)
 
   return $('table tbody tr a')
     .toArray()
-    .filter(el =>
-      $(el)
-        .attr('href')
-        .startsWith('/players/')
-    )
-    .map(el => $(el).text())
+    .filter((el) => $(el).attr('href').startsWith('/players/'))
+    .map((el) => $(el).text())
 }
